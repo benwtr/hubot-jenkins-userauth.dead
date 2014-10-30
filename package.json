@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-jenkins-userauth",
+  "name": "hubot-jenkins-userauth",
   "description": "Interact with Jenkins using your jenkins user",
   "version": "0.0.0",
   "author": "Ben P <ben@g.megatron.org>",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/benwtr/hubot-hubot-jenkins-userauth.git"
+    "url": "git://github.com/benwtr/hubot-jenkins-userauth.git"
   },
 
   "bugs": {
-    "url": "https://github.com/benwtr/hubot-hubot-jenkins-userauth/issues"
+    "url": "https://github.com/benwtr/hubot-jenkins-userauth/issues"
   },
 
   "dependencies": {
