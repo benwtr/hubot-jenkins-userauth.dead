@@ -2,18 +2,18 @@
   "name": "hubot-hubot-jenkins-userauth",
   "description": "Interact with Jenkins using your jenkins user",
   "version": "0.0.0",
-  "author": "Ben P <ben.potts@minted.com>",
+  "author": "Ben P <ben@g.megatron.org>",
   "license": "MIT",
 
   "keywords": ["hubot","hubot-scripts","jenkins"],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-jenkins-userauth.git"
+    "url": "git://github.com/benwtr/hubot-hubot-jenkins-userauth.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-jenkins-userauth/issues"
+    "url": "https://github.com/benwtr/hubot-hubot-jenkins-userauth/issues"
   },
 
   "dependencies": {
