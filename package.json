@@ -1,0 +1,39 @@
+{
+  "name": "hubot-hubot-jenkins-userauth",
+  "description": "Interact with Jenkins using your jenkins user",
+  "version": "0.0.0",
+  "author": "Ben P <ben.potts@minted.com>",
+  "license": "MIT",
+
+  "keywords": ["hubot","hubot-scripts","jenkins"],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubot-scripts/hubot-hubot-jenkins-userauth.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-hubot-jenkins-userauth/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "grunt test"
+  }
+}
