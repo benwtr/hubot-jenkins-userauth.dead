@@ -1,7 +1,7 @@
 {
   "name": "hubot-jenkins-userauth",
   "description": "Interact with Jenkins using your jenkins user",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Ben P <ben@g.megatron.org>",
   "license": "MIT",
 

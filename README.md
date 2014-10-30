@@ -1,4 +1,4 @@
-# hubot-hubot-jenkins-userauth
+# hubot-jenkins-userauth
 
 Interact with Jenkins using your jenkins user
 
@@ -8,17 +8,10 @@ See [`src/hubot-jenkins-userauth.coffee`](src/hubot-jenkins-userauth.coffee) for
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-jenkins-userauth --save`
+`npm install hubot-jenkins-userauth --save`
 
-Then add **hubot-hubot-jenkins-userauth** to your `external-scripts.json`:
+Then add **hubot-jenkins-userauth** to your `external-scripts.json`:
 
 ```json
-["hubot-hubot-jenkins-userauth"]
-```
-
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
+["hubot-jenkins-userauth"]
 ```
